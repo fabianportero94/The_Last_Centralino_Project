@@ -43,14 +43,17 @@ run
 run strafe
 - overdrive 20
 
------------------------------
-Knife walk
-- bag weight 0
-iverdrive 44
-arm space 70
+--------------Knife---------------
+standing walk 
+overdrive 20
+Backward - arm space - 70
 
 idle knife 
 -intensity 1
 Overdrive 5
 arm space 55
+
+Run forward
+- overdrive 30
+space arm 60
 
