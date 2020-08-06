@@ -1,0 +1,59 @@
+pistol walk 
+- overdrive - 5
+- Arm space 44
+
+pistol strafe
+- overdrice 1
+- Arm space 45
+
+
+pistol strafe run
+- overdrice 25
+- Arm space 45
+
+idle pistol
+- pistol height 26
+- arm space 30
+- overdrive 60
+
+pistol run
+overdrive 30
+
+----------------------------
+idle 
+- overdrive 50
+- Arm space 63
+
+walking forward
+- speed 44
+- stride 85
+- overdrive 7
+- arm space 50
+
+walking backward
+- overdrive 44
+- arm space 60
+
+walking strafe 
+- overdrive 20
+
+run 
+- overdrive 30
+
+run strafe
+- overdrive 20
+
+--------------Knife---------------
+standing walk 
+overdrive 20
+Backward - arm space - 70
+
+idle knife 
+-intensity 1
+Overdrive 5
+arm space 55
+
+Run forward
+- overdrive 30
+space arm 60
+
